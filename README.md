@@ -4,7 +4,7 @@ A Python implementation of Conway's Game of Life using **Python** and **Pygame**
 
 ## Table of Contents
 - [Overview](#overview)
-- [How-to-play-it](#how-to-play-it)
+- [How to play it ?](#how-to-play-it)
 - [Gameplay Controls](#gameplay-controls)
 - [How It Works](#how-it-works)
 - [Project-Structure](#project-structure)

@@ -56,6 +56,6 @@ You can play it on Itch.io : https://chivalryincode.itch.io/conways-game-of-life
 ## License
 This project is open-source. You can use, modify, and distribute it. If you include major changes or use it as part of your project, consider giving credit in your own README.
 
-## Credit
-Conway's Game of Life rules: Wikipedia
-Pygame (https://www.pygame.org/)
+## Credits
+Conway's Game of Life rules: [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+<br /> Pygame (https://www.pygame.org/)

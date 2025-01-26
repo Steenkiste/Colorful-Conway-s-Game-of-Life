@@ -4,9 +4,8 @@ A Python implementation of Conway's Game of Life using **Python** and **Pygame**
 
 ## Table of Contents
 - [Overview](#overview)
-- [How to play it ?](#how-to-play-it)
-- [Gameplay Controls](#gameplay-controls)
-- [How It Works](#how-it-works)
+- [How-to-play-it?](#how-to-play-it)
+- [Gameplay-Controls](#gameplay-controls)
 - [Project-Structure](#project-structure)
 - [Customization](#customization)
 - [License](#license)
@@ -24,7 +23,7 @@ The rules of Conway's Game of Life are :
 
 <img src="./ccwgol.gif"/>
 
-## How to play it ?
+## How to play it?
 ### On navigator
 You can play it on Itch.io : https://chivalryincode.itch.io/conways-game-of-life
 

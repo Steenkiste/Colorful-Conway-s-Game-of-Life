@@ -38,12 +38,13 @@ You can play it on Itch.io : https://chivalryincode.itch.io/conways-game-of-life
 
 ## Gameplay Controls
 - Left mouse : Draw on the grid by adding or remove a cell.
-- Space key ! Start or pause the game.
+- Space key : Start or pause the game.
 
 ## Project Structure
+├── README.md (this file) <br />
+├── ccwgol.gif <br />
 ├── color.py <br />
-├── colorful_conway_s_game_of_life.py <br />
-└── README.md (this file)
+└── colorful_conway_s_game_of_life.py <br />
 
 - **colorful_colorful_conway_s_game_of_life.py**: The main script containing the game loop and logic.
 - **color.py**: A file containing RGB tuples for different colors used in the game.

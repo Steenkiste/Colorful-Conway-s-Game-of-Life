@@ -1,6 +1,6 @@
 import pygame
 import random
-import Color as cc
+import color as cc
 
 # Constants
 SCREEN_WIDTH = 800
@@ -8,6 +8,7 @@ SCREEN_HEIGHT = 800
 GRID = 80
 CELL_WIDTH = SCREEN_WIDTH // GRID
 CELL_HEIGHT = SCREEN_HEIGHT // GRID
+WAIT_TIME = 80
 
 # Functions
 
@@ -103,7 +104,7 @@ def main():
 
         if playing:
             gameGrid = nextGeneration(gameGrid)
-            pygame.time.wait(80)
+            pygame.time.wait(WAIT_TIME)
 
         showGrid(screen, gameGrid, playing)
         pygame.display.flip()

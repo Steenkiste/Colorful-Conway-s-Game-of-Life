@@ -1,6 +1,7 @@
 # Colorful Conway's Game of Life
 
 A Python implementation of Conway's Game of Life using **Python** and **Pygame**. This project adds colors to each living cell and allows you to draw on the grid when the game is paused.
+</br> [Play it here !](https://chivalryincode.itch.io/conways-game-of-life)
 
 ## Table of Contents
 - [Overview](#overview)

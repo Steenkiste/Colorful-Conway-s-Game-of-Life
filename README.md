@@ -47,14 +47,18 @@ The rules of Conway's Game of Life are :
 
 ## How to try it?
 ### On navigator
-You can play it on Itch.io : https://chivalryincode.itch.io/conways-game-of-life
+You can play it on Itch.io [here](https://chivalryincode.itch.io/conways-game-of-life).
 
 ### On your computer
 1. **Download** this repository :
    ```bash
-   git clone https://github.com/Dimitri-van-Steenkiste/Colorful-Conways-Game-of-Life.git
-2. Install all dependencies : Python and Pygame.
-3. Run the game using python :
+   git clone https://github.com/Steenkiste/Colorful-Conways-Game-of-Life.git
+2. Install all dependencies :
+   - Install [Python](https://www.python.org/downloads/) is installed (Python 3.7 or higher recommended).
+   - Install [Pygame](https://www.pygame.org/download.shtml) using pip :
+        ```bash
+         pip install pygame
+5. Run the game using python :
    ```bash
    python colorful_conway_s_game_of_life.py
 

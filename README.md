@@ -1,3 +1,5 @@
+<a id="readme-top"></a>
+
 # Colorful Conway's Game of Life
 
 A Python implementation of Conway's Game of Life using **Python** and **Pygame**. This project adds colors to each living cell and allows you to draw on the grid when the game is paused.
@@ -24,9 +26,13 @@ The rules of Conway's Game of Life are :
 
 <img src="./ccwgol.gif"/>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Gameplay Controls
 - Left mouse : Draw on the grid by adding or remove a cell.
 - Space key : Start or pause the game.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Structure
 ├── README.md (this file) <br />
@@ -36,6 +42,8 @@ The rules of Conway's Game of Life are :
 
 - **colorful_colorful_conway_s_game_of_life.py**: The main script containing the game loop and logic.
 - **color.py**: A file containing RGB tuples for different colors used in the game.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## How to try it?
 ### On navigator
@@ -50,14 +58,22 @@ You can play it on Itch.io : https://chivalryincode.itch.io/conways-game-of-life
    ```bash
    python colorful_conway_s_game_of_life.py
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Customization
 - Grid Size: Adjust **GRID** in colorful_conway_s_game_of_life.py (default is 80).
 - Colors: Edit **COLORS** in color.py to change available colors.
 - Speed: Adjust **WAIT_TIME** in colorful_conway_s_game_of_life.py to change simulation speed (default is 80).
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## License
 This project is open-source. You can use, modify, and distribute it. If you include major changes or use it as part of your project, consider giving credit in your own README.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Credits
 Conway's Game of Life rules: [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 <br /> Pygame (https://www.pygame.org/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>

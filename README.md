@@ -35,6 +35,7 @@ The rules of Conway's Game of Life are :
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Structure
+├── LICENSE <br />
 ├── README.md (this file) <br />
 ├── ccwgol.gif <br />
 ├── color.py <br />

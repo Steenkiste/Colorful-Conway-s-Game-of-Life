@@ -72,7 +72,7 @@ You can play it on Itch.io [here](https://chivalryincode.itch.io/conways-game-of
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## License
-This project is open-source. You can use, modify, and distribute it. If you include major changes or use it as part of your project, consider giving credit in your own README.
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project under the terms of the license.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

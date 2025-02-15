@@ -53,7 +53,7 @@ You can play it on Itch.io [here](https://chivalryincode.itch.io/conways-game-of
 ### On your computer
 1. **Download** this repository :
    ```bash
-   git clone https://github.com/Steenkiste/Colorful-Conways-Game-of-Life.git
+   git clone https://github.com/Steenkiste/Colorful-Conway-s-Game-of-Life
 2. Install all dependencies :
    - Install [Python](https://www.python.org/downloads/) (Python 3.10 or higher recommended).
    - Install [Pygame](https://www.pygame.org/download.shtml) using pip :

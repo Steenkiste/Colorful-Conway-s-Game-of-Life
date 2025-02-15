@@ -59,7 +59,7 @@ You can play it on Itch.io [here](https://chivalryincode.itch.io/conways-game-of
    - Install [Pygame](https://www.pygame.org/download.shtml) for your OS using this [link](https://www.pygame.org/wiki/GettingStarted).
 5. Run the game using python :
    ```bash
-   python colorful_conway_s_game_of_life.py
+   python3 colorful_conway_s_game_of_life.py
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
